@@ -1,8 +1,15 @@
 {
   "routes": [
     {
+      "src": "/assets/(.*)",
+      "dest": "/assets/$1"
+    },
+    {
       "src": "/images/(.*)",
       "dest": "/images/$1"
+    },
+    {
+      "handle": "filesystem"
     },
     {
       "src": "/(.*)",
