@@ -1,6 +1,6 @@
 import React from 'react';
 import { GraduationCap, Award, Heart, Users, BookOpen, Coffee } from 'lucide-react';
-import {About} from '../assets/images/AboutJazz.jpg'
+
 const About = () => {
   const credentials = [
     { icon: Award, title: '15 Years Pro Basketball', description: 'NBA & International Leagues' },
@@ -67,7 +67,7 @@ const About = () => {
           <div className="relative">
             <div className="relative">
               <img
-                src="About"
+                src="AboutJazz.jpg"
                 alt="Jazz Ferguson - Former Professional Basketball Player"
                 className="w-full h-96 md:h-[500px] md:mt-2 object-cover rounded-2xl shadow-2xl hover:scale-105 transition duration-300"
               />
