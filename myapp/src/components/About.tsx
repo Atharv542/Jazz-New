@@ -67,7 +67,7 @@ const About = () => {
           <div className="relative">
             <div className="relative">
               <img
-                src="AboutJazz.jpg"
+                src="https://res.cloudinary.com/dczt652u9/image/upload/v1771304460/AboutJazz_kqoauq.jpg"
                 alt="Jazz Ferguson - Former Professional Basketball Player"
                 className="w-full h-96 md:h-[500px] md:mt-2 object-cover rounded-2xl shadow-2xl hover:scale-105 transition duration-300"
               />

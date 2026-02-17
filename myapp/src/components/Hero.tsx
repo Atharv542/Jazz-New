@@ -94,7 +94,7 @@ const Hero = () => {
             transition={{ delay: 1, duration: 0.8 }}
           >
             <div className="relative w-full h-[400px] md:h-full rounded-2xl overflow-hidden -mb-20 md:-mb-0">
-              <img src="Home2.jpg" alt="hero-image" />
+              <img src="https://res.cloudinary.com/dczt652u9/image/upload/v1771304527/Home2_kdih2v.jpg" alt="hero-image" />
             </div>
           </motion.div>
           {/* Left Content */}

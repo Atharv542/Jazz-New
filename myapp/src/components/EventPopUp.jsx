@@ -49,7 +49,7 @@ const EventPopup = ({ onClose }) => {
             {/* Image */}
             <div className="relative h-56 overflow-hidden">
               <img
-                src="Workshop1.jpeg"
+                src="https://res.cloudinary.com/dczt652u9/image/upload/v1771304594/Workshop1_pulqhq.jpg"
                 alt="Jazz Event"
                 className="w-full h-full object-fit"
               />
