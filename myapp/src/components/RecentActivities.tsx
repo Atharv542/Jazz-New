@@ -84,7 +84,7 @@ const RecentActivities = () => {
       title: 'Mindset Secrets',
       description:
         'They discuss Jazz’s Journey from leaving the projects of Louisville and how the death of a childhood friend affected him. How one of his early coaches ignited his self-belief and the dream of the NBA, how, as a pro-athlete, all he needed was one opportunity, and how having the right mindset, habits and commitment, can propel anyone to achieving maximum capacity.',
-      thumbnail: 'Podcast3.png',
+      thumbnail: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771306607/Podcast3_vliskm.png',
       date: 'November 27, 2025',
       url: 'https://youtu.be/ptn9TuYGiJ0?si=s_yOrzppjlhzFyUg',
       source: 'Tasty Humans Podcast',
@@ -96,9 +96,9 @@ const RecentActivities = () => {
       title: 'The Power of Quiet Consistency ',
       description:
         "The glory of a big win never gets old. When your company achieves major milestone,the recognition and rewards make all the hard work worthwhile.",
-      thumbnail: 'Blog-2.png',
+      thumbnail: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771305105/Blog-2_uat091.png',
       date: 'November 30, 2025',
-      url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771305105/Blog-2_uat091.png',
+      url: 'https://mags.itp.com/CEOME/2025/234-CEO-16-30-NOV-2025/#page=68',
       source: 'CEO MIDDLE EAST',
     },
     {
