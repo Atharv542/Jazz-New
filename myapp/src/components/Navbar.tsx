@@ -84,7 +84,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
 
           {/* Logo */}
-          <img className="w-16 scale-150" src="Jazz_Logo_5.png" />
+          <img className="w-16 scale-150" src="https://res.cloudinary.com/dczt652u9/image/upload/v1771305636/Jazz_Logo_5_jhipxt.png" />
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">

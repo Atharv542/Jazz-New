@@ -22,7 +22,7 @@ const Testimonials = () => {
       type: 'text',
       name: 'Polina Hohonova',
       title: 'Business Executive',
-      image: 'nopp.jpg',
+      image: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771304951/nopp_uvr68h.jpg',
       rating: 5,
       text: 'Working with Jazz has been a truly transformative experience. His positive energy and genuine presence created a safe, welcoming space where I felt completely supported. Jazz has an incredible ability to listen deeply, helping me uncover blind spots I had not even realized were there. What stood out most was his flexibility in tuning into my personality and views on life. This made me feel completely like myself while also empowering me to shift perspectives and make meaningful changes to improve my life. I am so grateful for the growth I have achieved with Jazz\'s help—he\'s truly exceptional at what he does.',
       result: 'Helped in making meaningful changes to improve life'
@@ -31,7 +31,7 @@ const Testimonials = () => {
       type: 'text',
       name: 'Tina Allen',
       title: 'Entrepreneur',
-      image: 'nopp.jpg',
+      image: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771304951/nopp_uvr68h.jpg',
       rating: 5,
       text: 'Jazz has a truly unique way of pointing you in the right direction—not by telling you what to do, but by gently guiding you toward your own clarity. His perspective is refreshing and often exactly what I need to shift how I see a situation. Through his thoughtful encouragement and intuitive insight, I\'ve discovered my niche and gained a deeper understanding of myself. Jazz does not just coach—he creates space for transformation. I\'m so grateful for his presence and the way he leads with both wisdom and heart.',
       result: 'Helped in understanding self and finding niche'
@@ -40,7 +40,7 @@ const Testimonials = () => {
       type: 'video',
       name: 'Gina Potter',
       title: 'Business Owner, Writer, Health Advocate',
-      image: 'Video-1.jpeg',
+      image: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771304873/Video-1_odaie9.jpg',
       rating: 5,
       videoCover: 'Video-1.jpeg',
       videoUrl: 'https://res.cloudinary.com/dczt652u9/video/upload/v1771270557/testi1_bkhyjm.mp4',
@@ -51,7 +51,7 @@ const Testimonials = () => {
       type: 'video',
       name: 'Keke Elenga',
       title: '15+ years Professional Basketball Player',
-      image: 'Video-2.jpeg',
+      image: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771304874/Video-2_emehkh.jpg',
       rating: 5,
       videoCover: 'Video-2.jpeg',
       videoUrl: 'https://res.cloudinary.com/dczt652u9/video/upload/v1771270545/testi4_m9gcwb.mp4',
@@ -64,7 +64,7 @@ const Testimonials = () => {
       title: 'Policy Advisor at the European Parliament',
       image: 'Video-3.jpeg',
       rating: 5,
-      videoCover: 'Video-3.jpeg',
+      videoCover: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771304894/Video-3_widt8u.jpg',
       videoUrl: 'https://res.cloudinary.com/dczt652u9/video/upload/v1771270543/testi2_zdlpia.mp4',
       result: 'Helped in developing essential skills to perform in high-pressure situations.'
     },
@@ -72,7 +72,7 @@ const Testimonials = () => {
       type: 'text',
       name: 'Cory Martin',
       title: '',
-      image: 'Cory.jpeg',
+      image: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771304898/Cory_rgxwdd.jpg',
       rating: 5,
       text: 'My wife and I are grateful for the incredible work Jazz is doing with our teenage athletes. Jazz’s commitment to helping young athletes strengthen their mentality and develop a clear understanding of what it takes to succeed is truly life-changing. Through mentorship and guidance, Jazz is elevating values such as discipline, perseverance, and resilience—qualities that are essential for those aspiring to play at the collegiate level. By focusing not only on physical skills but also on mental preparation, Jazz is equipping our athletes with the tools they need to thrive both on and off the field/court. This type of leadership and dedication from Jazz is making a lasting impact on our kids and we are grateful! ',
       result: 'The type of leadership and dedication helped in making a lasting impact on  kids and we are grateful! '
@@ -81,7 +81,7 @@ const Testimonials = () => {
       type: 'text',
       name: 'Samantha Armstrong',
       title: '',
-      image: 'Samantha.jpeg',
+      image: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771304874/Samantha_jtvv7b.jpg',
       rating: 5,
       text: 'My 14-year-old son started working with Jazz 6 months ago, and the impact has been significant. His mentorship has really shown how much of a role mindset plays in building confidence, establishing good habits, and, ultimately, achieving better results on court. It can be hard for parents to know the right things to say or how best to support their child through the highs and lows of a sport they love. As a professional athlete and performance coach, Jazz is able to create an instant connection and be a real inspiration to teens. ',
       result: 'Helped in building confidence, establishing good habits, and, ultimately, achieving better results on court. '
@@ -93,7 +93,7 @@ const Testimonials = () => {
       title: 'Parent of two teenage athletes',
       image: 'Amy.jpeg',
       rating: 5,
-      videoCover: 'Amy.jpeg',
+      videoCover: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771304853/Amy_onjp0e.jpg',
       videoUrl: 'https://res.cloudinary.com/dczt652u9/video/upload/v1771270549/testi5_okms0x.mp4',
       result: 'Helped in making huge positive impact and changes in young teenage athletes.'
     },

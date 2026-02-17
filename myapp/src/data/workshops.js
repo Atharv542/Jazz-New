@@ -6,7 +6,7 @@ export const workshops = [
     title: "Healing & Mindfulness Workshop",
     date: "February 2026",
     location: "UAE",
-    coverImage: "/Workshop1.jpeg",
+    coverImage: "https://res.cloudinary.com/dczt652u9/image/upload/v1771304594/Workshop1_pulqhq.jpg",
 
    videos: [
       {
@@ -35,14 +35,14 @@ export const workshops = [
       }
     ],
     photos: [
-      { id: "p1", url: "/image00001.jpeg" },
-      { id: "p2", url: "/image00002.jpeg" },
-      { id: "p3", url: "/image00003.jpeg" },
-      { id: "p4", url: "/image00004.jpeg" },
-      { id: "p5", url: "/image00018.jpeg" },
-      { id: "p6", url: "/image00020.jpeg" },
-      { id: "p7", url: "/image00022.jpeg" },
-      { id: "p8", url: "/image00025.jpeg" },
+      { id: "p1", url: "https://res.cloudinary.com/dczt652u9/image/upload/v1771305635/image00004_mrjvis.jpg" },
+      { id: "p2", url: "https://res.cloudinary.com/dczt652u9/image/upload/v1771305635/image00003_o9zjrh.jpg" },
+      { id: "p3", url: "https://res.cloudinary.com/dczt652u9/image/upload/v1771305636/image00002_wcgdyz.jpg" },
+      { id: "p4", url: "https://res.cloudinary.com/dczt652u9/image/upload/v1771305638/image00025_z8uqyu.jpg" },
+      { id: "p5", url: "https://res.cloudinary.com/dczt652u9/image/upload/v1771305648/image00020_jn6nox.jpg" },
+      { id: "p6", url: "https://res.cloudinary.com/dczt652u9/image/upload/v1771305652/image00022_djkck0.jpg" },
+      { id: "p7", url: "https://res.cloudinary.com/dczt652u9/image/upload/v1771305906/image00032_uvzdmd.jpg" },
+      { id: "p8", url: "https://res.cloudinary.com/dczt652u9/image/upload/v1771305910/image00033_auayep.jpg" },
     ],
   },
 ];

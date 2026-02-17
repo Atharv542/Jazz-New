@@ -27,7 +27,7 @@ const RecentActivities = () => {
       title: 'The Matrix Green Pill',
       description:
         'Host Hilmarie Hutchison talks with Jazzmarr about how discipline and purpose shaped his journey from Louisville to international basketball, and how that same mindset fuels Reps with Jazz. He shares defining career moments, why "reps remove all doubt," the difference between coaching teens and adults, and practical ways to beat comparison, improve focus, and turn habits into confidence.',
-      thumbnail: 'PodcastImage1.png',
+      thumbnail: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771305453/PodcastImage1_rcfbac.png',
       date: 'October 22, 2025',
       url: 'https://thematrixgreenpill.com/episodes/episode-267/',
       source: 'The Matrix Green Pill',
@@ -51,7 +51,7 @@ const RecentActivities = () => {
       title: 'Talking it through — and leading by example',
       description:
         'Sports is such an emotional roller coaster. Parents sometimes become more invested than their children and let their own emotions control the dialogue. Disappointment should be seen as an opportunity to develop resilience — it builds character and tests a child’s spirit.',
-      thumbnail: 'News1.png',
+      thumbnail: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771305298/News1_vrdzsa.png',
       date: 'October 21, 2025',
       url: 'https://gulfnews.com/lifestyle/how-dubai-mums-help-kids-rise-stronger-after-sports-team-rejection-its-not-about-medals-1.500315333 ',
       source: 'Gulf News',
@@ -62,7 +62,7 @@ const RecentActivities = () => {
       title: 'Why Your Words Matter As A Parent?',
       description:
         "Your words carry immense weight in the lives of your children, especially in the pre-teen and teen years.",
-      thumbnail: 'Blog-1.png',
+      thumbnail: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771305221/Blog-1_xacaul.png',
       date: 'November 6, 2025',
       url: 'https://www.raemini.com/post/why-your-words-matter-as-a-parent',
       source: 'Raemini Magazine',
@@ -73,7 +73,7 @@ const RecentActivities = () => {
       title: 'Money & Me',
       description:
         'Jazz Ferguson, a professional basketball player, learnt the value of money the hard way after splurging cash during the early stages of his career.Today, he is a life coach who advises on consistency, discipline and perseverance. Through his company, Reps With Jazz, he mentors young people and leaders to manage social pressures.',
-      thumbnail: 'News2.png',
+      thumbnail: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771305297/News2_t72jlq.png',
       date: 'November 09, 2025',
       url: 'https://www.thenationalnews.com/business/money/2025/11/07/dubai-basketball-coach-uae-business-personal-finance/',
       source: 'The National',
@@ -98,7 +98,7 @@ const RecentActivities = () => {
         "The glory of a big win never gets old. When your company achieves major milestone,the recognition and rewards make all the hard work worthwhile.",
       thumbnail: 'Blog-2.png',
       date: 'November 30, 2025',
-      url: 'https://mags.itp.com/CEOME/2025/234-CEO-16-30-NOV-2025/#page=68',
+      url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771305105/Blog-2_uat091.png',
       source: 'CEO MIDDLE EAST',
     },
     {
@@ -107,7 +107,7 @@ const RecentActivities = () => {
       title: 'Court To Mind',
       description:
         "For Jazz Ferguson, the decision to bring his basketball career and mentorship journey to the UAE was rooted in both purpose and possibility.Mainly, it was a decision to find more stability for my family,” he says, adding that the UAE represents “a real land of opportunity right now.",
-      thumbnail: 'News3.png',
+      thumbnail: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771305300/News3_y8mkbp.png',
       date: 'December 16, 2025',
       url: 'https://www.thefinance360.com/inside-jazz-fergusons-mission-to-shape-basketball-champions-in-uae/',
       source: 'FINANCE 360',
@@ -118,7 +118,7 @@ const RecentActivities = () => {
       title: 'Teen Thrive',
       description:
         "Dubai’s New Workshop Prepares Young Minds for Life’s Challenges Through Aviation Simulation",
-      thumbnail: 'Event1.png',
+      thumbnail: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771305373/Event1_sbxnmp.png',
       date: 'January 28, 2026',
       url: 'https://feelingoodglobal.com/teen-thrive-dubais-new-workshop-prepares-young-minds/',
       source: `feelin'good`,

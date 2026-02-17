@@ -11,20 +11,20 @@ const Gallery: React.FC = () => {
 
   // All images
   const allImages = [
-    { id: 1, url: '/Group1.jpg', alt: 'Life coaching session', span: 'col-span-2 row-span-2' },
-    { id: 2, url: '/P1.jpg', alt: 'Basketball training', span: 'col-span-1 row-span-1' },
-    { id: 3, url: '/P3.jpg', alt: 'Personal development', span: 'col-span-1 row-span-1' },
-    { id: 4, url: '/P16.jpg', alt: 'Athletic mindset', span: 'col-span-1 row-span-1' },
-    { id: 5, url: '/P17.jpg', alt: 'Leadership coaching', span: 'col-span-1 row-span-1' },
-    { id: 6, url: '/AboutJazz.jpg', alt: 'Home training setup', span: 'col-span-2 row-span-2' },
-    { id: 7, url: '/Group7.png', alt: 'Home environment', span: 'col-span-2 row-span-2' },
-    { id: 8, url: '/Group8.png', alt: 'Home coaching space', span: 'col-span-2 row-span-2' },
-    { id: 9, url: '/Home4.jpg', alt: 'Alternative home view', span: 'col-span-1 row-span-2' },
-    { id: 10, url: '/Home1.jpg', alt: 'About Jazz', span: 'col-span-1 row-span-2' },
-    { id: 11, url: '/P18.jpg', alt: 'About Jazz', span: 'col-span-1 row-span-2' },
-    { id: 12, url: '/P5.jpg', alt: 'About Jazz', span: 'col-span-1 row-span-2' },
-    { id: 13, url: '/P8.jpg', alt: 'About Jazz', span: 'col-span-1 row-span-2' },
-    { id: 14, url: '/P19.jpg', alt: 'About Jazz', span: 'col-span-1 row-span-2' },
+    { id: 1, url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771305974/Group1_jvs8rg.jpg', alt: 'Life coaching session', span: 'col-span-2 row-span-2' },
+    { id: 2, url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771306131/P1_sq9923.jpg', alt: 'Basketball training', span: 'col-span-1 row-span-1' },
+    { id: 3, url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771306131/P1_sq9923.jpg', alt: 'Personal development', span: 'col-span-1 row-span-1' },
+    { id: 4, url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771306181/P16_nf5zcr.jpg', alt: 'Athletic mindset', span: 'col-span-1 row-span-1' },
+    { id: 5, url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771306182/P17_tlrljd.jpg', alt: 'Leadership coaching', span: 'col-span-1 row-span-1' },
+    { id: 6, url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771304460/AboutJazz_kqoauq.jpg', alt: 'Home training setup', span: 'col-span-2 row-span-2' },
+    { id: 7, url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771305993/Group7_tspuhl.png', alt: 'Home environment', span: 'col-span-2 row-span-2' },
+    { id: 8, url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771305994/Group8_hml85v.png', alt: 'Home coaching space', span: 'col-span-2 row-span-2' },
+    { id: 9, url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771306000/Home4_fynmle.jpg', alt: 'Alternative home view', span: 'col-span-1 row-span-2' },
+    { id: 10, url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771305996/Home1_dqnery.jpg', alt: 'About Jazz', span: 'col-span-1 row-span-2' },
+    { id: 11, url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771306282/P18_icwemi.jpg', alt: 'About Jazz', span: 'col-span-1 row-span-2' },
+    { id: 12, url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771306255/P5_nkho1m.jpg', alt: 'About Jazz', span: 'col-span-1 row-span-2' },
+    { id: 13, url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771306217/P8_ueal5c.jpg', alt: 'About Jazz', span: 'col-span-1 row-span-2' },
+    { id: 14, url: 'https://res.cloudinary.com/dczt652u9/image/upload/v1771306283/P19_agcwun.jpg', alt: 'About Jazz', span: 'col-span-1 row-span-2' },
   ];
 
   // Intersection Observer
