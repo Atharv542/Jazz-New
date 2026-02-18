@@ -43,6 +43,8 @@ export const workshops = [
       { id: "p6", url: "https://res.cloudinary.com/dczt652u9/image/upload/v1771305652/image00022_djkck0.jpg" },
       { id: "p7", url: "https://res.cloudinary.com/dczt652u9/image/upload/v1771305906/image00032_uvzdmd.jpg" },
       { id: "p8", url: "https://res.cloudinary.com/dczt652u9/image/upload/v1771305910/image00033_auayep.jpg" },
+      { id: "p9", url: "https://res.cloudinary.com/dczt652u9/image/upload/v1771404411/WhatsApp_Image_2026-02-18_at_13.32.36_ixkllg.jpg" },
+      { id: "p10", url: "https://res.cloudinary.com/dczt652u9/image/upload/v1771404411/WhatsApp_Image_2026-02-18_at_13.32.36_1_wcn4wx.jpg" },
     ],
   },
 ];
