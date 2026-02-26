@@ -50,18 +50,19 @@ export const workshops = [
 
    {
     id: "workshop-2",
-    title: "Keynote Speech",
+    title: "Keynote Speech at Middlesex University for London Sports Institute",
     date: "February 2026",
     location: "UAE",
     coverImage: "https://res.cloudinary.com/djkmvvviu/image/upload/v1772093344/WhatsApp_Image_2026-02-26_at_10.58.24_1_lex4yn.jpg",
 
    
     photos: [
-      { id: "p1", url: "https://res.cloudinary.com/djkmvvviu/image/upload/v1772093344/WhatsApp_Image_2026-02-26_at_10.58.25_2_e3c86p.jpg" },
-      { id: "p2", url: "https://res.cloudinary.com/djkmvvviu/image/upload/v1772093344/WhatsApp_Image_2026-02-26_at_10.58.24_2_gwnnwp.jpg" },
-      { id: "p3", url: "https://res.cloudinary.com/djkmvvviu/image/upload/v1772093344/WhatsApp_Image_2026-02-26_at_10.58.25_1_gxwya0.jpg" },
-      { id: "p4", url: "https://res.cloudinary.com/djkmvvviu/image/upload/v1772093345/WhatsApp_Image_2026-02-26_at_10.58.25_uxaw5f.jpg" },
-      { id: "p5", url: "https://res.cloudinary.com/djkmvvviu/image/upload/v1772093344/WhatsApp_Image_2026-02-26_at_10.58.24_1_lex4yn.jpg" },
+      { id: "p1", url: "https://res.cloudinary.com/djkmvvviu/image/upload/v1772093344/WhatsApp_Image_2026-02-26_at_10.58.24_1_lex4yn.jpg" },
+      { id: "p2", url: "https://res.cloudinary.com/djkmvvviu/image/upload/v1772093344/WhatsApp_Image_2026-02-26_at_10.58.25_2_e3c86p.jpg" },
+      { id: "p3", url: "https://res.cloudinary.com/djkmvvviu/image/upload/v1772093344/WhatsApp_Image_2026-02-26_at_10.58.24_2_gwnnwp.jpg" },
+      { id: "p4", url: "https://res.cloudinary.com/djkmvvviu/image/upload/v1772093344/WhatsApp_Image_2026-02-26_at_10.58.25_1_gxwya0.jpg" },
+      { id: "p5", url: "https://res.cloudinary.com/djkmvvviu/image/upload/v1772093345/WhatsApp_Image_2026-02-26_at_10.58.25_uxaw5f.jpg" },
+      { id: "p6", url: "https://res.cloudinary.com/djkmvvviu/image/upload/v1772097167/WhatsApp_Image_2026-02-26_at_14.28.12_wvl7ct.jpg" },
     ],
   },
 ];
